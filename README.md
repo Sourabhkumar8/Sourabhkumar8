@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sourabhkumar
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning python, my python language is almost complete,  I have also completed c language, now I am doing django
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
